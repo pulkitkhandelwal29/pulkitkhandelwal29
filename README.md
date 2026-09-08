@@ -2,13 +2,12 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=220&section=header&text=Pulkit%20Khandelwal&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Scientist%20%C2%B7%20ML%20Engineer%20%C2%B7%20GenAI%20%C2%B7%20Cybersecurity&descAlignY=58&descSize=20&descColor=f0e6ff" width="100%"/>
 
-### 🚀 Founder @ Digimount IT Solutions &nbsp;·&nbsp; 4+ Years in ML, Cybersecurity &amp; AI Automation
-### 🤖 Building Agentic AI with LangChain &amp; RAG &nbsp;·&nbsp; Ex-DRDO &nbsp;·&nbsp; IEEE-Published Researcher
+### 🧠 Data Scientist &nbsp;|&nbsp; 🤖 ML Engineer &nbsp;|&nbsp; ⚡ GenAI Engineer &nbsp;|&nbsp; 🛡️ Cybersecurity Specialist
+### 4+ Years Building Intelligent &amp; Secure Systems &nbsp;·&nbsp; IEEE-Published Researcher &nbsp;·&nbsp; Ex-DRDO Intern
 
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://www.linkedin.com/in/pulkit-khandelwal-27a7b0215/)
-[![Digimount](https://img.shields.io/badge/Digimount%20IT%20Solutions-8E2DE2?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117)](https://digimount.in)
 [![Gmail](https://img.shields.io/badge/pulkit.khandelwal29-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:pulkit.khandelwal29@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=pulkitkhandelwal29&style=for-the-badge&color=8E2DE2&labelColor=0D1117&label=PROFILE+VIEWS)](https://github.com/pulkitkhandelwal29)
 
@@ -18,18 +17,16 @@
 
 ```bash
 $ whoami
-> Pulkit Khandelwal — Data Scientist & Founder @ Digimount IT Solutions
+> Pulkit Khandelwal — Data Scientist, ML Engineer & Cybersecurity Engineer
 
 $ cat career_summary.txt
 > 4+ years across Machine Learning, Cybersecurity, BI & Agentic AI Automation.
-> Ex-DRDO (anomaly detection) · Senior DS @ AS' Saarthi IAS · IEEE CONIT 2022 co-author.
+> Ex-DRDO Intern (anomaly detection) · Senior Data Scientist @ AS' Saarthi IAS · IEEE CONIT 2022 co-author.
 > Full ML lifecycle: feature engineering -> MLflow tracking -> SageMaker / Vertex AI deploy.
 > Modern GenAI stack: LangChain, RAG pipelines, LLM guardrails, Hugging Face.
 
-$ ./currently.sh --building --learning
-> building:  AakaarKala-Theme & Coaching-LMS
-> learning:  Multi-agent orchestration, LLM evaluation & guardrails
-> ask me about: RAG pipelines, threat modeling, MLOps, turning models into revenue
+$ grep -r "expertise" ./skills/
+> RAG pipelines · Threat modeling & VAPT · MLOps · Anomaly detection · Agentic AI systems
 ```
 
 <br>
@@ -46,7 +43,7 @@ $ ./currently.sh --building --learning
 
 ## 🧠 About Me
 
-I'm a Data Scientist and entrepreneur with **4+ years** across Machine Learning, Cybersecurity, Business Intelligence, and AI Automation. I currently run **[Digimount IT Solutions](https://digimount.in)**, a 5-person IT firm delivering cybersecurity audits, BI dashboards, and agentic AI automation to MSME clients in e-commerce, healthcare, retail, and education. Before that, I was Senior Data Scientist at **AS' Saarthi IAS**, built anomaly-detection systems at **DRDO**, and benchmarked ML models at **Lepide Software**. My work spans the full ML lifecycle — feature engineering, model training, MLflow tracking, and deployment on AWS SageMaker / GCP Vertex AI — plus modern LLM/RAG systems built with LangChain and Hugging Face.
+I'm a Data Scientist, ML Engineer, GenAI builder, and Cybersecurity engineer with **4+ years** of experience spanning Machine Learning, Cybersecurity, Business Intelligence, and AI Automation. My journey started building real-time anomaly-detection systems as a **Cybersecurity Analyst Intern at DRDO**, followed by benchmarking ML models on enterprise security data at **Lepide Software**. I then spent close to three years as **Senior Data Scientist at AS' Saarthi IAS**, shipping production ML systems and a RAG-powered query engine used by thousands of students. Most recently, I founded **Digimount IT Solutions**, leading a team delivering cybersecurity audits, BI dashboards, and agentic AI automation for MSME clients. My work spans the full ML lifecycle — feature engineering, model training, MLflow tracking, and deployment on AWS SageMaker / GCP Vertex AI — plus modern LLM/RAG systems built with LangChain and Hugging Face.
 
 <br>
 
@@ -293,7 +290,6 @@ Trail.AR · Learn-Three.js
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pulkit%20Khandelwal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://www.linkedin.com/in/pulkit-khandelwal-27a7b0215/)
-[![Digimount IT Solutions](https://img.shields.io/badge/Digimount%20IT%20Solutions-Visit%20Site-8E2DE2?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117)](https://digimount.in)
 [![Email](https://img.shields.io/badge/Email-pulkit.khandelwal29%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:pulkit.khandelwal29@gmail.com)
 
 *Open to data science, ML engineering, GenAI, and cybersecurity collaborations & opportunities.*
