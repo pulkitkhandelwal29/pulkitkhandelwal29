@@ -2,7 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=220&section=header&text=Pulkit%20Khandelwal&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Scientist%20%C2%B7%20ML%20Engineer%20%C2%B7%20GenAI%20%C2%B7%20Cybersecurity&descAlignY=58&descSize=20&descColor=f0e6ff" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&height=40&lines=Founder+%40+Digimount+IT+Solutions;4%2B+years+across+ML%2C+Cybersecurity+%26+AI+Automation;Building+Agentic+AI+%2F+RAG+pipelines+with+LangChain;Ex-DRDO+%7C+IEEE-published+researcher+%7C+9.51+CGPA" alt="Typing SVG" />
+### 🚀 Founder @ Digimount IT Solutions &nbsp;·&nbsp; 4+ Years in ML, Cybersecurity &amp; AI Automation
+### 🤖 Building Agentic AI with LangChain &amp; RAG &nbsp;·&nbsp; Ex-DRDO &nbsp;·&nbsp; IEEE-Published Researcher
 
 <br>
 
